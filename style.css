@@ -1,6 +1,6 @@
 body{
     font-family: 'Arial',sans-serif;
-    background-color: hsl(0, 0%, 90%);
+    background-color: hsla(0, 0%, 0%, 0.705);
     margin: 0;
     display: flex;
     flex-direction: column;
